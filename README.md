@@ -12,8 +12,11 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 - **Pagamento** – Pode ter cadastrado mais de uma forma de pagamento;
 - **Entrega** – Possui status e código de rastreio;
 
+## **Resolução**
+Para atender aos requisitos do desafio, foi criada uma modelagem conceitual aprimorada, considerando todas as exigências descritas.  
+
+Abaixo está a representação gráfica do modelo refinado:  
+
+![Modelagem do E-Commerce](Modelagem_ECommerce.png)
+
 📎 [Modelagem_ECommerce.pdf](https://github.com/user-attachments/files/19199675/Modelagem_ECommerce.pdf)
-
-
-
-
